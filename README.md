@@ -1,6 +1,8 @@
 # NoteApp
 A simple note application for Android written in Kotlin.You can create, edit, delete and search notes.
 
+The application use SQLiteDatabase for store the data.
+
 ## Features:
 * Add
 * Edit
